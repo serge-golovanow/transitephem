@@ -7,6 +7,8 @@ Exoplanets.org citation: Wright et al.2011
 http://arxiv.org/pdf/1012.5676v3.pdf
 
 Core developer: Brett Morris
+Edits : Serge Golovanow
+
 '''
 import math #pour math.pi
 #from datetime import datetime #unused
