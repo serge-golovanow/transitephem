@@ -1,6 +1,8 @@
 transitephem
 ============
 
+https://www.sendell.com/blog/ephemerides-de-transits-dexoplanetes/
+
 Changements perso :
 ```
 transitephem.py prend ses paramètres en arguments au lancement
